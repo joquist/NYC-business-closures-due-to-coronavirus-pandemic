@@ -1,0 +1,5751 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "21 Club",
+        "type": "restaurant",
+        "address": "21 W 52nd Street",
+        "borough": "Manhattan",
+        "neighborhood": "Midtown",
+        "City": "Manhattan",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10019,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 1930,
+        "date_closed_approx": "12/14/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97733577,
+          40.76149852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bar Veloce",
+        "type": "bar",
+        "address": "175 2nd Ave",
+        "borough": "Manhattan",
+        "neighborhood": "East Village",
+        "City": "Manhattan",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": "",
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2000,
+        "date_closed_approx": "12/14/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98652937,
+          40.73182836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hanshik",
+        "type": "restaurant",
+        "address": "199 8th Ave",
+        "borough": "Manhattan",
+        "neighborhood": "Chelsea",
+        "City": "Manhattan",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": "",
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2020,
+        "date_closed_approx": "12/14/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0000131,
+          40.74449336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coco & Cru",
+        "type": "restaurant",
+        "address": "643 Broadway",
+        "borough": "Manhattan",
+        "neighborhood": "Greenwich Village",
+        "City": "Manhattan",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10012,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2016,
+        "date_closed_approx": "12/14/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99610953,
+          40.72749892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Franklin Park",
+        "type": "bar",
+        "address": "766 Franklin Ave",
+        "borough": "Brooklyn",
+        "neighborhood": "Crown Heights",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11238,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2008,
+        "date_closed_approx": "12/13/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95793701,
+          40.67236865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blue Smoke",
+        "type": "restaurant",
+        "address": "116 E 27th St.",
+        "borough": "Manhattan",
+        "neighborhood": "Flatiron",
+        "City": "Manhattan",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": "",
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2002,
+        "date_closed_approx": "12/2/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98357804,
+          40.74286317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Los Papis",
+        "type": "diner",
+        "address": "77 Bridge St",
+        "borough": "Brooklyn",
+        "neighborhood": "Dumbo",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11201,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "c. 1985",
+        "date_closed_approx": "12/1/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98454448,
+          40.70284083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Max Fish",
+        "type": "",
+        "address": "120 Orchard Street",
+        "borough": "Manhattan",
+        "neighborhood": "Lower East Side",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10002,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "12/3/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98946,
+          40.719412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Donna",
+        "type": "bar",
+        "address": "27 Broadway",
+        "borough": "Brooklyn",
+        "neighborhood": "Williamsburg",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11249,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2014,
+        "date_closed_approx": "11/28/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9675268,
+          40.71129016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gloria's ",
+        "type": "",
+        "address": "987 Nostrand Avenue",
+        "borough": "Brooklyn",
+        "neighborhood": "Bushwick",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11225,
+        "Country": "US",
+        "due_to_COVID": "n",
+        "date_est": 2001,
+        "date_closed_approx": "11/24/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.950857,
+          40.664242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Creek and Cave",
+        "type": "bar",
+        "address": "10-93 Jackson Ave",
+        "borough": "Queens",
+        "neighborhood": "Long Island City",
+        "City": "Queens",
+        "State": "NY",
+        "County": "Queens County",
+        "Zip": 11101,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2006,
+        "date_closed_approx": "11/12/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95168667,
+          40.74326681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Made Nice ",
+        "type": "",
+        "address": "8 W 28th Street",
+        "borough": "Manhattan",
+        "neighborhood": "Flatiron",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10001,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2017,
+        "date_closed_approx": "11/3/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.988109,
+          40.744917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ramen Lab",
+        "type": "",
+        "address": "70 Kenmare Street",
+        "borough": "Manhattan",
+        "neighborhood": "Nolita",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10012,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "11/13/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.996395,
+          40.720987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Building On Bond",
+        "type": "",
+        "address": "112 Bond Street",
+        "borough": "Brooklyn",
+        "neighborhood": "Boerum Hill",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11217,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2007,
+        "date_closed_approx": "10/6/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.985288,
+          40.686363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baohaus",
+        "type": "restaurant",
+        "address": "238 E 14th St",
+        "borough": "Manhattan",
+        "neighborhood": "East Village",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10003,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2009,
+        "date_closed_approx": "10/5/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.985707,
+          40.732502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Colandrea New Corner",
+        "type": "restaurant",
+        "address": "7201 8th Ave",
+        "borough": "Brooklyn",
+        "neighborhood": "Dyker Heights",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11228,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 1936,
+        "date_closed_approx": "10/1/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0165889,
+          40.62922787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jules Bistro",
+        "type": "restaurant",
+        "address": "65 St Marks Pl",
+        "borough": "Manhattan",
+        "neighborhood": "East Village",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10003,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 1993,
+        "date_closed_approx": "9/25/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.986145,
+          40.728081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bubby's",
+        "type": "",
+        "address": "73 Gansevoort St",
+        "borough": "Manhattan",
+        "neighborhood": "Meatpacking District",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10014,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "9/25/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.007879,
+          40.739502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Vanderbilt",
+        "type": "restaurant",
+        "address": "570 Vanderbilt Ave",
+        "borough": "Brooklyn",
+        "neighborhood": "Prospect Heights",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11238,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2009,
+        "date_closed_approx": "9/25/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.968366,
+          40.679591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Soda Bar",
+        "type": "bar",
+        "address": "629 Vanderbilt Ave",
+        "borough": "Brooklyn",
+        "neighborhood": "Prospect Heights",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11238,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "9/25/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96882629,
+          40.67764664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taco Dumbo",
+        "type": "restaurant",
+        "address": "56 Prospect St",
+        "borough": "Brooklyn",
+        "neighborhood": "Dumbo",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11201,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "9/25/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98838945,
+          40.70066889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taco Dumbo",
+        "type": "restaurant",
+        "address": "56 Spring Street",
+        "borough": "Manhattan",
+        "neighborhood": "SoHo",
+        "City": "Manhattan",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10012,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2016,
+        "date_closed_approx": "9/25/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99676198,
+          40.72257946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eliza's Local",
+        "type": "bar",
+        "address": "2 St. Marks Place",
+        "borough": "Manhattan",
+        "neighborhood": "East Village",
+        "City": "Manhattan",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10003,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2018,
+        "date_closed_approx": "9/24/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98949069,
+          40.72974922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carroll Gardens Classic Diner",
+        "type": "diner",
+        "address": "155 Smith St",
+        "borough": "Brooklyn",
+        "neighborhood": "Boerum Hill",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11201,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "9/21/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.990515,
+          40.686449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flowers For All Occasions",
+        "type": "bar",
+        "address": "1114 Dekalb Ave",
+        "borough": "Brooklyn",
+        "neighborhood": "Bushwick",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11221,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2016,
+        "date_closed_approx": "9/16/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.929837,
+          40.693739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sacred Chow ",
+        "type": "",
+        "address": "227 Sullivan St",
+        "borough": "Manhattan",
+        "neighborhood": "Greenwich Village",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10012,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 1995,
+        "date_closed_approx": "9/14/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.999577,
+          40.729658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chocolateria",
+        "type": "coffee shop",
+        "address": "228 7th Ave",
+        "borough": "Brooklyn",
+        "neighborhood": "Park Slope",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11215,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "9/10/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97905008,
+          40.67019623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aji Ichiban",
+        "type": "candy store",
+        "address": "37 Mott St",
+        "borough": "Manhattan",
+        "neighborhood": "Chinatown",
+        "City": "Manhattan",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10013,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "c. 2000",
+        "date_closed_approx": "9/9/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99894507,
+          40.71497773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Regular Visitors",
+        "type": "cafe",
+        "address": "149 Smith Street",
+        "borough": "Brooklyn",
+        "neighborhood": "Boerum Hill",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11201,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2016,
+        "date_closed_approx": "9/6/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.990432,
+          40.686577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "the Factory",
+        "type": "bar",
+        "address": "1612 Madison St",
+        "borough": "Queens",
+        "neighborhood": "Ridgewood",
+        "City": "Queens",
+        "State": "NY",
+        "County": "Queens County",
+        "Zip": 11385,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "9/3/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90829058,
+          40.70154786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Butter & Scotch",
+        "type": "bar",
+        "address": "818 Franklin Ave",
+        "borough": "Brooklyn",
+        "neighborhood": "Crown Heights",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11225,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2014,
+        "date_closed_approx": "9/3/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95845982,
+          40.67001747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Skilled Archer",
+        "type": "",
+        "address": "313 Knickerbocker Avenue",
+        "borough": "Brooklyn",
+        "neighborhood": "Bushwick",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11237,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2018,
+        "date_closed_approx": "9/3/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.922929,
+          40.701544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Golden Mandarin Court",
+        "type": "restaurant",
+        "address": "61 Mott St A",
+        "borough": "Manhattan",
+        "neighborhood": "Chinatown",
+        "City": "Manhattan",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10013,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "3/15/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99838853,
+          40.71600792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Le Pif",
+        "type": "",
+        "address": "465 W 23rd Street",
+        "borough": "Manhattan",
+        "neighborhood": "Chelsea",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10011,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "9/22/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.003719,
+          40.747674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Le Pif",
+        "type": "",
+        "address": "2058 Broadway",
+        "borough": "Manhattan",
+        "neighborhood": "Upper West Side",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10023,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "9/22/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.981795,
+          40.777516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Black Emperor",
+        "type": "bar",
+        "address": "197 2nd Ave",
+        "borough": "Manhattan",
+        "neighborhood": "East Village",
+        "City": "Manhattan",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": "",
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2019,
+        "date_closed_approx": "8/31/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9860149,
+          40.73193184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mermaid Inn",
+        "type": "restaurant",
+        "address": "96 2nd Ave",
+        "borough": "Manhattan",
+        "neighborhood": "East Village",
+        "City": "Manhattan",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10003,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "c. 2003",
+        "date_closed_approx": "8/31/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98854467,
+          40.72704269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TAK Room",
+        "type": "",
+        "address": "20 Hudson Yards",
+        "borough": "Manhattan",
+        "neighborhood": "Hudson Yards",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10001,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2019,
+        "date_closed_approx": "8/12/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.000434,
+          40.753157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rosa Mexicano",
+        "type": "",
+        "address": "1063 1st Avenue",
+        "borough": "Manhattan",
+        "neighborhood": "Midtown East",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10022,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 1984,
+        "date_closed_approx": "8/10/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.962678,
+          40.758955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maison Premiere",
+        "type": "bar",
+        "address": "298 Bedford Ave",
+        "borough": "Brooklyn",
+        "neighborhood": "Williamsburg",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11249,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2011,
+        "date_closed_approx": "8/10/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96162732,
+          40.71425915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hop Shing Restaurant",
+        "type": "restaurant",
+        "address": "9 Chatham Sq",
+        "borough": "Manhattan",
+        "neighborhood": "Chinatown",
+        "City": "Manhattan",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10038,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "8/6/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99805993,
+          40.71404586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pearl's",
+        "type": "",
+        "address": "178 N 8th St",
+        "borough": "Brooklyn",
+        "neighborhood": "Williamsburg",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11211,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2016,
+        "date_closed_approx": "8/6/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.956673,
+          40.717979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bunsmith",
+        "type": "restaurant",
+        "address": "789 Franklin Ave",
+        "borough": "Brooklyn",
+        "neighborhood": "Crown Heights",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11238,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2015,
+        "date_closed_approx": "8/6/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95740034,
+          40.67186102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Colador Caf�",
+        "type": "",
+        "address": "1000 Bedford Ave",
+        "borough": "Brooklyn",
+        "neighborhood": "Bed-Stuy",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11205,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2005,
+        "date_closed_approx": "8/3/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.955516,
+          40.690649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bali Kitchen",
+        "type": "restaurant",
+        "address": "128 E 4th St",
+        "borough": "Manhattan",
+        "neighborhood": "East Village",
+        "City": "Manhattan",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": "",
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2017,
+        "date_closed_approx": "8/3/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98770335,
+          40.72608826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Embers Steakhouse",
+        "type": "restaurant",
+        "address": "9519 3rd Avenue",
+        "borough": "Brooklyn",
+        "neighborhood": "Bay Ridge",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11209,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "8/3/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.033689,
+          40.616622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Awkward Scone",
+        "type": "",
+        "address": "1022 Broadway",
+        "borough": "Brooklyn",
+        "neighborhood": "Bushwick",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11221,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "8/4/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.932911,
+          40.695467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jerry's Italian Market",
+        "type": "",
+        "address": "620 Lorimer Street",
+        "borough": "Brooklyn",
+        "neighborhood": "Greenpoint",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11211,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "c. 1980",
+        "date_closed_approx": "7/31/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.949498,
+          40.715624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Rusty Knot",
+        "type": "bar",
+        "address": "425 West St.",
+        "borough": "Manhattan",
+        "neighborhood": "West Village",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10014,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2008,
+        "date_closed_approx": "7/27/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.009804,
+          40.735129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazing 66",
+        "type": "restaurant",
+        "address": "66 Mott St",
+        "borough": "Manhattan",
+        "neighborhood": "Chinatown",
+        "City": "Manhattan",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10013,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2016,
+        "date_closed_approx": "7/26/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99802747,
+          40.71612699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cumin Indian Food",
+        "type": "restaurant",
+        "address": "3549 Johnson Ave",
+        "borough": "Bronx",
+        "neighborhood": "Riverdale",
+        "City": "Bronx",
+        "State": "NY",
+        "County": "Bronx County",
+        "Zip": 10463,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "7/23/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90993102,
+          40.88648596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bar Sardine",
+        "type": "",
+        "address": "183 W. 10th Street",
+        "borough": "Manhattan",
+        "neighborhood": "Greenwich Village",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10014,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2014,
+        "date_closed_approx": "8/11/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.002722,
+          40.734367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Existing Conditions",
+        "type": "",
+        "address": "35 W 8th Street",
+        "borough": "Manhattan",
+        "neighborhood": "Greenwich Village",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10011,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2018,
+        "date_closed_approx": "8/26/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.998084,
+          40.733095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alameda",
+        "type": "bistro",
+        "address": "195 Franklin St",
+        "borough": "Brooklyn",
+        "neighborhood": "Greenpoint",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11222,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2012,
+        "date_closed_approx": "7/22/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95852,
+          40.733496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kurry Qulture",
+        "type": "restaurant",
+        "address": "36-05 30th Ave",
+        "borough": "Queens",
+        "neighborhood": "Astoria",
+        "City": "Queens",
+        "State": "NY",
+        "County": "Queens County",
+        "Zip": 11103,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2015,
+        "date_closed_approx": "7/20/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91710803,
+          40.76578448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Therapy",
+        "type": "lounge",
+        "address": "343 W 52nd St",
+        "borough": "Manhattan",
+        "neighborhood": "Hell's Kitchen",
+        "City": "Manhattan",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 10019,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2003,
+        "date_closed_approx": "7/19/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98687231,
+          40.76415152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kinfolk",
+        "type": "bar",
+        "address": "90 Wythe Ave",
+        "borough": "Brooklyn",
+        "neighborhood": "Williamsburg",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11249,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2008,
+        "date_closed_approx": "7/14/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.958254,
+          40.721704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Don Coqui Astoria",
+        "type": "restaurant",
+        "address": "28-18 31st St",
+        "borough": "Queens",
+        "neighborhood": "Astoria",
+        "City": "Queens",
+        "State": "NY",
+        "County": "Queens County",
+        "Zip": 11102,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "c. 2011",
+        "date_closed_approx": "7/13/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92185262,
+          40.77408329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jimmy's Diner",
+        "type": "",
+        "address": "577 Union Ave",
+        "borough": "Brooklyn",
+        "neighborhood": "Williamsburg",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11211,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2007,
+        "date_closed_approx": "7/10/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.952383,
+          40.717703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Professor Thom's",
+        "type": "",
+        "address": "219 2nd Ave",
+        "borough": "Manhattan",
+        "neighborhood": "East Village",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10003,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2005,
+        "date_closed_approx": "7/8/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.985432,
+          40.732032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cranberry's",
+        "type": "",
+        "address": "48 Henry St",
+        "borough": "Brooklyn",
+        "neighborhood": "Brooklyn Heights",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11201,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 1977,
+        "date_closed_approx": "7/6/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.992119,
+          40.699568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pequena",
+        "type": "restaurant",
+        "address": "86 S. Portland Ave",
+        "borough": "Brooklyn",
+        "neighborhood": "Fort Greene",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11217,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2006,
+        "date_closed_approx": "7/6/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.974703,
+          40.686901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Pok�Spot ",
+        "type": "",
+        "address": "120 4th Ave",
+        "borough": "Manhattan",
+        "neighborhood": "East Village",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10003,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2016,
+        "date_closed_approx": "7/1/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.990165,
+          40.732994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KICHIN",
+        "type": "",
+        "address": "1264 Myrtle Ave",
+        "borough": "Brooklyn",
+        "neighborhood": "Bushwick",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11221,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "7/17/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.926823,
+          40.697812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mullane's",
+        "type": "bar",
+        "address": "71 Lafayette Ave",
+        "borough": "Brooklyn",
+        "neighborhood": "Fort Greene",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11217,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "7/9/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975448,
+          40.687263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "200 Fifth",
+        "type": "bar",
+        "address": "200 5th Ave",
+        "borough": "Brooklyn",
+        "neighborhood": "Park Slope",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11217,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 1987,
+        "date_closed_approx": "6/30/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98041976,
+          40.67678249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Glady's",
+        "type": "",
+        "address": "788 Franklin Ave",
+        "borough": "Brooklyn",
+        "neighborhood": "Crown Heights",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11238,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2013,
+        "date_closed_approx": "6/28/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.957743,
+          40.671691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Way Station",
+        "type": "",
+        "address": "683 Washington Ave",
+        "borough": "Brooklyn",
+        "neighborhood": "Crown Heights",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11238,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2011,
+        "date_closed_approx": "6/23/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.963453,
+          40.676778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bedford Cheese Shop",
+        "type": "shop",
+        "address": "265 Bedford Ave",
+        "borough": "Brooklyn",
+        "neighborhood": "Williamsburg",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11211,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2013,
+        "date_closed_approx": "6/22/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96093,
+          40.714674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "First Lamb Shabu",
+        "type": "",
+        "address": "218 E14th St.",
+        "borough": "Manhattan",
+        "neighborhood": "East Village",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10011,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2019,
+        "date_closed_approx": "6/22/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.000923,
+          40.738911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crown Fried Chicken",
+        "type": "restaurant",
+        "address": "235 Ralph Ave",
+        "borough": "Brooklyn",
+        "neighborhood": "Bed-Stuy",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11233,
+        "Country": "US",
+        "due_to_COVID": "m",
+        "date_est": "",
+        "date_closed_approx": "6/19/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9223,
+          40.681532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caf� Jax",
+        "type": "",
+        "address": "318 E 84th Street ",
+        "borough": "Manhattan",
+        "neighborhood": "Upper East Side",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10028,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2014,
+        "date_closed_approx": "6/18/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.951853,
+          40.7761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "China Chalet",
+        "type": "",
+        "address": "47 Broadway",
+        "borough": "Manhattan",
+        "neighborhood": "FiDi",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10006,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 1975,
+        "date_closed_approx": "7/6/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.012873,
+          40.706546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Augustine",
+        "type": "",
+        "address": "5 Beekman Street",
+        "borough": "Manhattan",
+        "neighborhood": "Financial District",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10038,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2016,
+        "date_closed_approx": "7/30/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006713,
+          40.711324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sweet Corner",
+        "type": "",
+        "address": "535 Hudson St.",
+        "borough": "Manhattan",
+        "neighborhood": "Greenwich Village",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10014,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2013,
+        "date_closed_approx": "7/10/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006317,
+          40.734731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chumley's",
+        "type": "",
+        "address": "86 Bedford St",
+        "borough": "Manhattan",
+        "neighborhood": "Greenwich Village",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10014,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 1922,
+        "date_closed_approx": "7/27/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.005148,
+          40.732056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canc�n",
+        "type": "",
+        "address": "937 8th Ave",
+        "borough": "Manhattan",
+        "neighborhood": "Hell's Kitchen",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10019,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 1982,
+        "date_closed_approx": "7/29/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98379,
+          40.765776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beverly's",
+        "type": "",
+        "address": "21 Essex St.",
+        "borough": "Manhattan",
+        "neighborhood": "LES",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10002,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "7/1/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.990013,
+          40.715369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cocoa Bar",
+        "type": "",
+        "address": "21 Clinton St.",
+        "borough": "Manhattan",
+        "neighborhood": "LES",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10002,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2007,
+        "date_closed_approx": "7/1/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.984374,
+          40.720668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sugar Factory American Brasserie",
+        "type": "restaurant",
+        "address": "835 Washington Street",
+        "borough": "Manhattan",
+        "neighborhood": "Meatpacking District",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10014,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2013,
+        "date_closed_approx": "7/9/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.007678,
+          40.740441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spoon, Table & Bar",
+        "type": "",
+        "address": "40 E 33rd St",
+        "borough": "Manhattan",
+        "neighborhood": "Midtown East",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10016,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2000,
+        "date_closed_approx": "7/1/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.982713,
+          40.746676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hunger Pang",
+        "type": "",
+        "address": "1021 Church Ave",
+        "borough": "Brooklyn",
+        "neighborhood": "Prospect Park South",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11218,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2014,
+        "date_closed_approx": "7/29/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.969686,
+          40.646967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amsterdam Gourmet",
+        "type": "",
+        "address": "405 Amsterdam Ave",
+        "borough": "Manhattan",
+        "neighborhood": "Upper West Side",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10024,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "7/16/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.977965,
+          40.783335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ali Baba",
+        "type": "",
+        "address": "862 2nd Ave",
+        "borough": "Manhattan",
+        "neighborhood": "Upper West Side",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10017,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "c. 1995",
+        "date_closed_approx": "7/9/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.970092,
+          40.752405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grill 212",
+        "type": "",
+        "address": "212 W 80th St",
+        "borough": "Manhattan",
+        "neighborhood": "Upper West Side",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10024,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "7/16/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.978791,
+          40.784133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nanoosh",
+        "type": "",
+        "address": "2012 Broadway",
+        "borough": "Manhattan",
+        "neighborhood": "Upper West Side",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10023,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "7/16/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.981865,
+          40.775813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Floating Mountain Tea House [Relocated to Upstate]",
+        "type": "",
+        "address": "239 W 72nd St",
+        "borough": "Manhattan",
+        "neighborhood": "Upper West Side",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10023,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "7/11/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.982981,
+          40.779357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Caridad 78",
+        "type": "",
+        "address": "2199 Broadway",
+        "borough": "Manhattan",
+        "neighborhood": "Upper West Side",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10024,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 1968,
+        "date_closed_approx": "7/16/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.980773,
+          40.783181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pokebab",
+        "type": "",
+        "address": "2047 Broadway",
+        "borough": "Manhattan",
+        "neighborhood": "Upper West Side",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10023,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2018,
+        "date_closed_approx": "7/16/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.982543,
+          40.777864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gotan",
+        "type": "",
+        "address": "258 Wythe Avenue",
+        "borough": "Brooklyn",
+        "neighborhood": "Williamsburg",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11249,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "6/17/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.963219,
+          40.717074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mee Li Fruits & Vegetables",
+        "type": "market",
+        "address": "54 Elizabeth St.",
+        "borough": "Manhattan",
+        "neighborhood": "Chinatown",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10013,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 1975,
+        "date_closed_approx": "6/16/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.996488,
+          40.717154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kim Chee",
+        "type": "restaurant",
+        "address": "9324 3rd Avenue",
+        "borough": "Brooklyn",
+        "neighborhood": "Bay Ridge",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11209,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2001,
+        "date_closed_approx": "6/15/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.033421,
+          40.618101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aux Epices",
+        "type": "",
+        "address": "121 Baxter St.",
+        "borough": "Manhattan",
+        "neighborhood": "Chinatown",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10013,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2013,
+        "date_closed_approx": "6/12/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.998915,
+          40.718008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Xi'an Famous Foods",
+        "type": "",
+        "address": "648 Manhattan Ave",
+        "borough": "Brooklyn",
+        "neighborhood": "Greenpoint",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11222,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "6/12/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.950933,
+          40.724332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brooklyn Cider House ",
+        "type": "",
+        "address": "1100 Flushing Ave",
+        "borough": "Brooklyn",
+        "neighborhood": "Bushwick",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11237,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2017,
+        "date_closed_approx": "6/10/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.927272,
+          40.705163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hakata Tonton",
+        "type": "",
+        "address": "61 Grove St",
+        "borough": "Manhattan",
+        "neighborhood": "West Village",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10014,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2007,
+        "date_closed_approx": "6/5/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00328,
+          40.733225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Highlands",
+        "type": "bar",
+        "address": "150 W 10th St",
+        "borough": "Manhattan",
+        "neighborhood": "West Village",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10014,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2009,
+        "date_closed_approx": "6/3/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.001159,
+          40.734433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "My Thai Cafe",
+        "type": "restaurant",
+        "address": "7803 3rd Ave",
+        "borough": "Brooklyn",
+        "neighborhood": "Bay Ridge",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11209,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2007,
+        "date_closed_approx": "5/31/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.028584,
+          40.629099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Divine Bar & Grill",
+        "type": "",
+        "address": "896 Broadway",
+        "borough": "Brooklyn",
+        "neighborhood": "Bushwick",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11206,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2013,
+        "date_closed_approx": "5/31/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.937069,
+          40.697837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jack & Nellie's",
+        "type": "restaurant",
+        "address": "10825 Ascan Ave",
+        "borough": "Queens",
+        "neighborhood": "Forest Hills",
+        "City": "Forest Hills",
+        "State": "NY",
+        "County": "Queens County",
+        "Zip": 11375,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2012,
+        "date_closed_approx": "5/24/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.840854,
+          40.718189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Coqui Bar & Billiards",
+        "type": "",
+        "address": "54-19 Myrtle Ave",
+        "borough": "Queens",
+        "neighborhood": "Ridgewood",
+        "City": "Ridgewood",
+        "State": "NY",
+        "County": "Queens County",
+        "Zip": 11385,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2011,
+        "date_closed_approx": "5/23/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.910323,
+          40.699762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Momofuku Ss�m Bar [relocating]",
+        "type": "",
+        "address": "207 2nd Avenue",
+        "borough": "Manhattan",
+        "neighborhood": "East Village",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10003,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2005,
+        "date_closed_approx": "5/13/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9857,
+          40.731653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gem Spa",
+        "type": "",
+        "address": "131 2nd Avenue",
+        "borough": "Manhattan",
+        "neighborhood": "East Village",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10003,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "c.1920",
+        "date_closed_approx": "5/13/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98793,
+          40.728541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schnippers",
+        "type": "",
+        "address": "120 Church St.",
+        "borough": "Manhattan",
+        "neighborhood": "TriBeCa",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10007,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2016,
+        "date_closed_approx": "5/12/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.009105,
+          40.713713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blue Ribbon Brooklyn",
+        "type": "",
+        "address": "280 5th Ave",
+        "borough": "Brooklyn",
+        "neighborhood": "Park Slope",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11215,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2001,
+        "date_closed_approx": "5/12/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.982282,
+          40.674219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jewel Bako  /  Restaurant Ukiyo",
+        "type": "",
+        "address": "239 E 5th Street",
+        "borough": "Manhattan",
+        "neighborhood": "East Village",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10003,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2005,
+        "date_closed_approx": "5/12/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.989225,
+          40.726992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jacques Torres",
+        "type": "shop",
+        "address": "350 Hudson Street",
+        "borough": "Manhattan",
+        "neighborhood": "Hudson Square",
+        "City": "Manhattan",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10014,
+        "Country": "US",
+        "due_to_COVID": "n",
+        "date_est": 2004,
+        "date_closed_approx": "5/11/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00690194,
+          40.72821945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PLAY Sports Bar ",
+        "type": "bar",
+        "address": "2 Sneden Ave",
+        "borough": "Staten Island",
+        "neighborhood": "Annadale",
+        "City": "Staten Island",
+        "State": "NY",
+        "County": "Richmond County",
+        "Zip": 10312,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2010,
+        "date_closed_approx": "5/5/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.177156,
+          40.540438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nix ",
+        "type": "",
+        "address": "72 University Place",
+        "borough": "Manhattan",
+        "neighborhood": "Greenwich Village",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10003,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "6/10/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.993592,
+          40.733219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Raviolo",
+        "type": "",
+        "address": "57 7th Avenue S",
+        "borough": "Manhattan",
+        "neighborhood": "Greenwich Village",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10014,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "6/18/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.003695,
+          40.73168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gaia Italian Cafe",
+        "type": "",
+        "address": "251 East Houston Street",
+        "borough": "Manhattan",
+        "neighborhood": "Lower East Side",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10002,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2011,
+        "date_closed_approx": "6/30/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.985304,
+          40.721722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aureole ",
+        "type": "",
+        "address": "135 W 42nd Street",
+        "borough": "Manhattan",
+        "neighborhood": "Midtown",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10036,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2009,
+        "date_closed_approx": "6/22/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.985306,
+          40.755513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perdition ",
+        "type": "",
+        "address": "692 10th Avenue",
+        "borough": "Manhattan",
+        "neighborhood": "Midtown West",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10019,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2005,
+        "date_closed_approx": "6/9/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.992312,
+          40.763666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Momofuku Nishi",
+        "type": "",
+        "address": "232 8th Ave",
+        "borough": "Manhattan",
+        "neighborhood": "Chelsea",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10011,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "5/13/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.998914,
+          40.744398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Forest Hills Diner",
+        "type": "",
+        "address": "68-60 Austin St",
+        "borough": "Queens",
+        "neighborhood": "Forest Hills",
+        "City": "Forest Hills",
+        "State": "NY",
+        "County": "Queens County",
+        "Zip": 11375,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2010,
+        "date_closed_approx": "5/29/2020",
+        "number_of_employees": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.850339,
+          40.722079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Daddy-O ",
+        "type": "bar",
+        "address": "44 Bedford Street",
+        "borough": "Manhattan",
+        "neighborhood": "West Village",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10014,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 1999,
+        "date_closed_approx": "5/6/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.004179,
+          40.7304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Takashi",
+        "type": "",
+        "address": "456 Hudson Street",
+        "borough": "Manhattan",
+        "neighborhood": "West Village",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10014,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2010,
+        "date_closed_approx": "5/22/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006474,
+          40.731445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Greene Grape Annex ",
+        "type": "cafe",
+        "address": "753 Fulton St",
+        "borough": "Brooklyn",
+        "neighborhood": "Fort Greene",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11217,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2014,
+        "date_closed_approx": "4/24/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.974684,
+          40.686548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Office NYC  /  The Aviary",
+        "type": "",
+        "address": "80 Columbus Circle at 60th Street",
+        "borough": "Manhattan",
+        "neighborhood": "Columbus Circle",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10019,
+        "Country": "US",
+        "due_to_COVID": "n",
+        "date_est": 2017,
+        "date_closed_approx": "4/15/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.982801,
+          40.769028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Sorrentina",
+        "type": "",
+        "address": "6522 11th Ave",
+        "borough": "Brooklyn",
+        "neighborhood": "Bay Ridge",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11219,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 1995,
+        "date_closed_approx": "4/15/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006548,
+          40.628249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dub Pies NYC",
+        "type": "",
+        "address": "211 Prospect Park West",
+        "borough": "Brooklyn",
+        "neighborhood": "Park Slope",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11215,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2008,
+        "date_closed_approx": "4/11/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.980166,
+          40.660425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cherry Point ",
+        "type": "",
+        "address": "664 Manhattan St",
+        "borough": "Brooklyn",
+        "neighborhood": "Greenpoint",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11256,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2016,
+        "date_closed_approx": "4/10/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.945032,
+          40.645099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gimme! Coffee",
+        "type": "cafe",
+        "address": "495 Lorimer St",
+        "borough": "Brooklyn",
+        "neighborhood": "Williamsburg",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10012,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2003,
+        "date_closed_approx": "4/7/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94910622,
+          40.71171489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gimme! Coffee",
+        "type": "cafe",
+        "address": "221 Mott St",
+        "borough": "Manhattan",
+        "neighborhood": "Nolita",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10012,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2008,
+        "date_closed_approx": "4/7/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.995312,
+          40.722278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Randall's Barbecue",
+        "type": "restaurant",
+        "address": "359 Grand Street",
+        "borough": "Manhattan",
+        "neighborhood": "Lower East Side",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10002,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2017,
+        "date_closed_approx": "4/1/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.989008,
+          40.716477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kim Cooks & Caters ",
+        "type": "",
+        "address": "97 Lincoln Ave",
+        "borough": "Staten Island",
+        "neighborhood": "Grant City",
+        "City": "Staten Island",
+        "State": "NY",
+        "County": "Richmond County",
+        "Zip": 10306,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2019,
+        "date_closed_approx": "4/20/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.109308,
+          40.57984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taro Sushi",
+        "type": "",
+        "address": "244 Flatbush Ave",
+        "borough": "Brooklyn",
+        "neighborhood": "Prospect Heights",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11217,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2005,
+        "date_closed_approx": "3/31/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.974497,
+          40.679673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "800 Degrees",
+        "type": "restaurant",
+        "address": "1 E 33rd St.",
+        "borough": "Manhattan",
+        "neighborhood": " Koreatown",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10016,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "3/29/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.984502,
+          40.74765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Toro NYC",
+        "type": "restaurant",
+        "address": "85 10th Avenue",
+        "borough": "Manhattan",
+        "neighborhood": "Chelsea",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10011,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "3/25/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.007787,
+          40.743026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Irish Cottage ",
+        "type": "",
+        "address": "108-07 72nd Ave",
+        "borough": "Queens",
+        "neighborhood": "Forest Hills",
+        "City": "Forest Hills",
+        "State": "NY",
+        "County": "Queens County",
+        "Zip": 11375,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 1960,
+        "date_closed_approx": "5/7/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.842598,
+          40.719602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "RDV Harlem",
+        "type": "",
+        "address": "2072 Frederick Douglass Blvd",
+        "borough": "Manhattan",
+        "neighborhood": "Harlem",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10026,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "5/19/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.956937,
+          40.801944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bonsai Kakigori",
+        "type": "",
+        "address": "100 Stanton St.",
+        "borough": "Manhattan",
+        "neighborhood": "LES",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10002,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2017,
+        "date_closed_approx": "5/4/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.987929,
+          40.721363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Delicias Manabitas",
+        "type": "",
+        "address": "4205 35th Ave",
+        "borough": "Queens",
+        "neighborhood": "LIC",
+        "City": "Long Island City",
+        "State": "NY",
+        "County": "Queens County",
+        "Zip": 11101,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2005,
+        "date_closed_approx": "5/2/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92016,
+          40.754365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abigael's ",
+        "type": "",
+        "address": "1407 Broadway",
+        "borough": "Manhattan",
+        "neighborhood": "Midtown",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10018,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "5/18/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.987437,
+          40.753153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Copacabana ",
+        "type": "",
+        "address": "268 W 47th Street",
+        "borough": "Manhattan",
+        "neighborhood": "Midtown",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10036,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2011,
+        "date_closed_approx": "5/26/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.987153,
+          40.760169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Foley's NY",
+        "type": "",
+        "address": "18 West 33rd St",
+        "borough": "Manhattan",
+        "neighborhood": "Midtown",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10001,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2004,
+        "date_closed_approx": "5/29/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.986252,
+          40.748178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blenheim",
+        "type": "",
+        "address": "283 W 12th St",
+        "borough": "Manhattan",
+        "neighborhood": "West Village",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10014,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "5/29/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.004013,
+          40.737641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jack the Horse Tavern",
+        "type": "",
+        "address": "66 Hicks St",
+        "borough": "Brooklyn",
+        "neighborhood": "Brooklyn Heights",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11201,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2006,
+        "date_closed_approx": "3/23/2020",
+        "number_of_employees": 25
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.993732,
+          40.69996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Artopolis Bakery",
+        "type": "bakery",
+        "address": "23-18 31st St",
+        "borough": "Queens",
+        "neighborhood": "Astoria",
+        "City": "Astoria",
+        "State": "NY",
+        "County": "Queens County",
+        "Zip": 11105,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2013,
+        "date_closed_approx": "3/22/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.913531,
+          40.774043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gussy's Bar",
+        "type": "bar",
+        "address": "2014 29th St",
+        "borough": "Queens",
+        "neighborhood": "Astoria",
+        "City": "Astoria",
+        "State": "NY",
+        "County": "Queens County",
+        "Zip": 11105,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "c.2010",
+        "date_closed_approx": "3/21/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90782,
+          40.780138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rye House",
+        "type": "restaurant",
+        "address": "11 W 17th St",
+        "borough": "Manhattan",
+        "neighborhood": "Flatiron",
+        "City": "Manhattan",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": "",
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2009,
+        "date_closed_approx": "3/16/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99279958,
+          40.73955993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monika's Cafe Bar",
+        "type": "",
+        "address": "32-90 36th St",
+        "borough": "Queens",
+        "neighborhood": "Astoria",
+        "City": "Astoria",
+        "State": "NY",
+        "County": "Queens County",
+        "Zip": 11106,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "c. 2000",
+        "date_closed_approx": "3/15/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.923264,
+          40.757991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Babydudes",
+        "type": "coffee shop",
+        "address": "715 Nostrand Ave",
+        "borough": "Brooklyn",
+        "neighborhood": "Crown Heights",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": "",
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2019,
+        "date_closed_approx": "3/15/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95027646,
+          40.67347343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belcampo",
+        "type": "butcher",
+        "address": "20 Hudson Yards",
+        "borough": "Manhattan",
+        "neighborhood": "Hudson Yards",
+        "City": "Manhattan",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": "",
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2019,
+        "date_closed_approx": "3/15/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00009452,
+          40.75480896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Berg'n",
+        "type": "beer garden",
+        "address": "899 Bergen St.",
+        "borough": "Brooklyn",
+        "neighborhood": "Crown Heights",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11238,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2014,
+        "date_closed_approx": "3/15/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95731677,
+          40.6774066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Slowteria",
+        "type": "",
+        "address": "548 Court St",
+        "borough": "Brooklyn",
+        "neighborhood": "Carroll Gardens",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11231,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2012,
+        "date_closed_approx": "3/12/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.999558,
+          40.675094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kleinberg's",
+        "type": "",
+        "address": "165 Tompkin's Ave",
+        "borough": "Brooklyn",
+        "neighborhood": "Bushwick",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11206,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "3/18/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.945839,
+          40.693752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lucky Strike ",
+        "type": "",
+        "address": "59 Grand Street",
+        "borough": "Manhattan",
+        "neighborhood": "SoHo",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10013,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 1989,
+        "date_closed_approx": "4/15/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.003481,
+          40.72215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coogan's ",
+        "type": "bar",
+        "address": "4015 Broadway",
+        "borough": "Manhattan",
+        "neighborhood": "Washington Heights",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10032,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 1985,
+        "date_closed_approx": "4/20/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93969,
+          40.841605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sushi Yasu",
+        "type": "",
+        "address": "70-11 Austin Street",
+        "borough": "Queens",
+        "neighborhood": "Forest Hills",
+        "City": "Forest Hills",
+        "State": "NY",
+        "County": "Queens County",
+        "Zip": 11375,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.846458,
+          40.720878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gotham Bar & Grill ",
+        "type": "",
+        "address": "12 E 12th Street",
+        "borough": "Manhattan",
+        "neighborhood": "Greenwich Village",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10003,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 1984,
+        "date_closed_approx": "3/14/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.993676,
+          40.734197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flight 151",
+        "type": "",
+        "address": "151 8th Avenue",
+        "borough": "Manhattan",
+        "neighborhood": "Chelsea",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10011,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "3/16/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.001033,
+          40.742101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Good Stuff Diner",
+        "type": "",
+        "address": "109 W 14th Street",
+        "borough": "Manhattan",
+        "neighborhood": "Chelsea",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10011,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "9/9/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99741,
+          40.737777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zagara",
+        "type": "",
+        "address": "216 7th Ave",
+        "borough": "Manhattan",
+        "neighborhood": "Chelsea",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10011,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "6/5/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9961,
+          40.743786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crispo",
+        "type": "",
+        "address": "240 W 14th St",
+        "borough": "Manhattan",
+        "neighborhood": "Chelsea",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10011,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2002,
+        "date_closed_approx": "4/18/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.001706,
+          40.739247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Steak 'N Lobster",
+        "type": "",
+        "address": "129 W29th St",
+        "borough": "Manhattan",
+        "neighborhood": "Chelsea",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10001,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2019,
+        "date_closed_approx": "",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.991352,
+          40.747306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gohan-Ya",
+        "type": "",
+        "address": "14 Orchard Street",
+        "borough": "Manhattan",
+        "neighborhood": "Chinatown",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10002,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "6/10/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.991666,
+          40.715104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "JJ Noodle",
+        "type": "",
+        "address": "19 Henry St.",
+        "borough": "Manhattan",
+        "neighborhood": "Chinatown",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10002,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.996901,
+          40.712911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Let's Makan",
+        "type": "",
+        "address": "64A Bayard Street",
+        "borough": "Manhattan",
+        "neighborhood": "Chinatown",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10013,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2018,
+        "date_closed_approx": "7/23/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.997907,
+          40.715513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Urban Vintage ",
+        "type": "",
+        "address": "294 Grand Ave",
+        "borough": "Brooklyn",
+        "neighborhood": "Clinton Hill",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11238,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2010,
+        "date_closed_approx": "7/9/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.962873,
+          40.688003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Finch",
+        "type": "",
+        "address": "212 Greene Ave",
+        "borough": "Brooklyn",
+        "neighborhood": "Clinton Hill",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11238,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2014,
+        "date_closed_approx": "6/24/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.962892,
+          40.686914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bloom Cafe",
+        "type": "",
+        "address": "852 Fulton Street",
+        "borough": "Brooklyn",
+        "neighborhood": "Clinton Hill",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11238,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.967261,
+          40.683425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Il Triangolo",
+        "type": "",
+        "address": "96-01 Corona Avenue",
+        "borough": "Queens",
+        "neighborhood": "Corona",
+        "City": "Corona",
+        "State": "NY",
+        "County": "Queens County",
+        "Zip": 11368,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2011,
+        "date_closed_approx": "10/24/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.866934,
+          40.742033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bad Seed",
+        "type": "",
+        "address": "585 Franklin Ave",
+        "borough": "Brooklyn",
+        "neighborhood": "Crown Heights",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11216,
+        "Country": "US",
+        "due_to_COVID": "n",
+        "date_est": "",
+        "date_closed_approx": "",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.955008,
+          40.678483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dutch Kills Centraal",
+        "type": "",
+        "address": "3840 29th St",
+        "borough": "Queens",
+        "neighborhood": "Dutch Kills",
+        "City": "Long Island City",
+        "State": "NY",
+        "County": "Queens County",
+        "Zip": 11101,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2012,
+        "date_closed_approx": "6/16/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.934487,
+          40.753673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loeb Boathouse",
+        "type": "",
+        "address": "Park Drive North E 72nd St",
+        "borough": "Manhattan",
+        "neighborhood": "Central Park",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10007,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 1954,
+        "date_closed_approx": "10/6/2020",
+        "number_of_employees": 163
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96873453,
+          40.77532875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pig N Whistle ",
+        "type": "",
+        "address": "922 3rd Avenue",
+        "borough": "Manhattan",
+        "neighborhood": "Midtown East",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10022,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "5/1/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.968397,
+          40.759368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Violet East Village ",
+        "type": "",
+        "address": "511 E 5th Street",
+        "borough": "Manhattan",
+        "neighborhood": "East Village",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10009,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.983704,
+          40.724675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "O Ramen and Dim Sum M",
+        "type": "",
+        "address": "350 E 9th Street",
+        "borough": "Manhattan",
+        "neighborhood": "East Village",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10003,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2020,
+        "date_closed_approx": "7/28/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.985321,
+          40.728281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Athenian",
+        "type": "",
+        "address": "224 E. 10th Street",
+        "borough": "Manhattan",
+        "neighborhood": "East Village",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10003,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2018,
+        "date_closed_approx": "8/11/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.985571,
+          40.729148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Saint Austere",
+        "type": "",
+        "address": "613 Grand St",
+        "borough": "Brooklyn",
+        "neighborhood": "East Williamsburg",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11211,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "3/23/2020",
+        "number_of_employees": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.947622,
+          40.711414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trading Post ",
+        "type": "",
+        "address": "170 John Street",
+        "borough": "Manhattan",
+        "neighborhood": "Financial District",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10038,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2013,
+        "date_closed_approx": "",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.004261,
+          40.70598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wolf & Lamb Steakhouse",
+        "type": "",
+        "address": "1635 Coney Island Ave",
+        "borough": "Brooklyn",
+        "neighborhood": "Flatbush",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11230,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2012,
+        "date_closed_approx": "3/17/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.963556,
+          40.617482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BarBacon",
+        "type": "",
+        "address": "836 9th Ave",
+        "borough": "Manhattan",
+        "neighborhood": "Hell's Kitchen",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10019,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "3/22/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.986694,
+          40.766263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jake's Saloon",
+        "type": "",
+        "address": "875 10th Ave.",
+        "borough": "Manhattan",
+        "neighborhood": "Hell's Kitchen",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10019,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.988626,
+          40.76934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bistango",
+        "type": "",
+        "address": "145 3rd Avenue",
+        "borough": "Manhattan",
+        "neighborhood": "Kips Bay",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10003,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.986569,
+          40.73381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mandoo Bar",
+        "type": "",
+        "address": "2 West 32nd St.",
+        "borough": "Manhattan",
+        "neighborhood": "Koreatown",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10001,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2001,
+        "date_closed_approx": "",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.986111,
+          40.747303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Los Feliz",
+        "type": "",
+        "address": "109 Ludlow St.",
+        "borough": "Manhattan",
+        "neighborhood": "Lower East Side",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10002,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2010,
+        "date_closed_approx": "3/23/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.988822,
+          40.719376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marine Park Coffee",
+        "type": "",
+        "address": "3602-B Quentin Rd",
+        "borough": "Brooklyn",
+        "neighborhood": "Marine Park",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11234,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2017,
+        "date_closed_approx": "",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.936558,
+          40.614639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monkey Bar",
+        "type": "",
+        "address": "60 E 54th St.",
+        "borough": "Manhattan",
+        "neighborhood": "Midtown",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10022,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 1936,
+        "date_closed_approx": "",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.973134,
+          40.759984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West 3rd Common",
+        "type": "",
+        "address": "1 W 3rd St.",
+        "borough": "Manhattan",
+        "neighborhood": "NoHo",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10012,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.994975,
+          40.727998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khao Sarn Thai",
+        "type": "",
+        "address": "338 Bedford",
+        "borough": "Brooklyn",
+        "neighborhood": "Williamsburg",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11249,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.962483,
+          40.712848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "701West",
+        "type": "",
+        "address": "701 7th Avenue 11th Floor",
+        "borough": "Manhattan",
+        "neighborhood": "Times Square",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10036,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.984327,
+          40.759327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The CopperPot ",
+        "type": "",
+        "address": "347 Van Brunt Street",
+        "borough": "Brooklyn",
+        "neighborhood": "Red Hook",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11231,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2018,
+        "date_closed_approx": "9/22/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01291,
+          40.677184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Good Fork",
+        "type": "",
+        "address": "391 Van Brunt Street",
+        "borough": "Brooklyn",
+        "neighborhood": "Red Hook",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11231,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2004,
+        "date_closed_approx": "6/25/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.014314,
+          40.675985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Woodhaven House ",
+        "type": "",
+        "address": "63-98 Woodhaven Blvd",
+        "borough": "Queens",
+        "neighborhood": "Rego Park",
+        "City": "Middle Village",
+        "State": "NY",
+        "County": "Queens County",
+        "Zip": 11379,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2004,
+        "date_closed_approx": "5/12/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.86725,
+          40.721846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chubby Princess ",
+        "type": "",
+        "address": "200 Water Street",
+        "borough": "Manhattan",
+        "neighborhood": "Seaport District",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10038,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2020,
+        "date_closed_approx": "6/23/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.004316,
+          40.707459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jay & Lloyd's Kosher Deli",
+        "type": "",
+        "address": "2718 Avenue U",
+        "borough": "Brooklyn",
+        "neighborhood": "Sheepshead Bay",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11229,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 1992,
+        "date_closed_approx": "5/29/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.944171,
+          40.600052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pegu Club ",
+        "type": "",
+        "address": "77 W Houston Street",
+        "borough": "Manhattan",
+        "neighborhood": "SoHo",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10012,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2005,
+        "date_closed_approx": "4/30/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.999681,
+          40.726596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aquagrill",
+        "type": "",
+        "address": "210 Spring Street",
+        "borough": "Manhattan",
+        "neighborhood": "SoHo",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10012,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 1996,
+        "date_closed_approx": "6/17/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.003702,
+          40.725279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cocotte",
+        "type": "",
+        "address": "110 Thompson St.",
+        "borough": "Manhattan",
+        "neighborhood": "SoHo",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10012,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2012,
+        "date_closed_approx": "6/26/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.001777,
+          40.72574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Cupping Room Cafe",
+        "type": "",
+        "address": "359 West Broadway",
+        "borough": "Manhattan",
+        "neighborhood": "SoHo",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10013,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 1977,
+        "date_closed_approx": "6/26/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.003066,
+          40.723009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Paris Cafe ",
+        "type": "",
+        "address": "119 South Street",
+        "borough": "Manhattan",
+        "neighborhood": "South Seaport District",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10038,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 1873,
+        "date_closed_approx": "5/8/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.001767,
+          40.707325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Duzer's Local Cafe and Market",
+        "type": "",
+        "address": "387 Van Duzer St",
+        "borough": "Staten Island",
+        "neighborhood": "Stapleton",
+        "City": "Staten Island",
+        "State": "NY",
+        "County": "Richmond County",
+        "Zip": 10304,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2016,
+        "date_closed_approx": "3/19/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.079884,
+          40.628644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casablanca Cocktail Lounge",
+        "type": "bar",
+        "address": "300 Malcolm X Blvd",
+        "borough": "Brooklyn",
+        "neighborhood": "Stuyvesant Heights",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11233,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.929121,
+          40.682568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "C�t� Soleil",
+        "type": "",
+        "address": "50-12 Skillman Ave",
+        "borough": "Queens",
+        "neighborhood": "Sunnyside",
+        "City": "Woodside",
+        "State": "NY",
+        "County": "Queens County",
+        "Zip": 11377,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "7/8/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.913881,
+          40.745966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tonic Times Square",
+        "type": "",
+        "address": "727 7th Ave",
+        "borough": "Manhattan",
+        "neighborhood": "Times Square",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10019,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.983804,
+          40.760054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "O'Lunney's",
+        "type": "",
+        "address": "145 W45th St",
+        "borough": "Manhattan",
+        "neighborhood": "Times Square",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10036,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "9/3/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.984378,
+          40.757578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vietspot",
+        "type": "",
+        "address": "200 Church St",
+        "borough": "Manhattan",
+        "neighborhood": "TriBeCa",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10013,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2015,
+        "date_closed_approx": "5/29/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.007168,
+          40.716172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maxwell's ",
+        "type": "",
+        "address": "59 Reade Street",
+        "borough": "Manhattan",
+        "neighborhood": "Tribeca",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10007,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2011,
+        "date_closed_approx": "6/8/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0065,
+          40.714833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BarBacon",
+        "type": "",
+        "address": "127 4th Ave",
+        "borough": "Manhattan",
+        "neighborhood": "Union Square",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10003,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "3/22/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.989734,
+          40.733337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beyoglu ",
+        "type": "",
+        "address": "1431 3rd Avenue",
+        "borough": "Manhattan",
+        "neighborhood": "Upper East Side",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10028,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "5/11/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.956241,
+          40.775417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peri Ela ",
+        "type": "",
+        "address": "1361 Lexington Avenue",
+        "borough": "Manhattan",
+        "neighborhood": "Upper East Side",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10128,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "6/18/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.953447,
+          40.782188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vaucluse",
+        "type": "",
+        "address": "100 E 63rd St",
+        "borough": "Manhattan",
+        "neighborhood": "Upper East Side",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10065,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2015,
+        "date_closed_approx": "7/10/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.967577,
+          40.765146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sarabeth's",
+        "type": "",
+        "address": "1295 Madison Ave",
+        "borough": "Manhattan",
+        "neighborhood": "Upper East Side",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10128,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "7/24/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.955747,
+          40.784803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Cottage ",
+        "type": "",
+        "address": "360 Amsterdam Avenue",
+        "borough": "Manhattan",
+        "neighborhood": "Upper West Side",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10024,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "4/22/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.979401,
+          40.781992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bistro Cassis",
+        "type": "",
+        "address": "225 Columbus Ave",
+        "borough": "Manhattan",
+        "neighborhood": "Upper West Side",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10023,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "5/11/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.979411,
+          40.776253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Effy's",
+        "type": "",
+        "address": "104 W 96th St",
+        "borough": "Manhattan",
+        "neighborhood": "Upper West Side",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10025,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "5/17/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.968164,
+          40.792961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oxbow Tavern ",
+        "type": "",
+        "address": "240 Columbus Avenue",
+        "borough": "Manhattan",
+        "neighborhood": "Upper West Side",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10023,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2018,
+        "date_closed_approx": "6/3/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.979334,
+          40.776966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lenwich",
+        "type": "",
+        "address": "2567 Broadway",
+        "borough": "Manhattan",
+        "neighborhood": "Upper West Side",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10025,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "7/14/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.971879,
+          40.794989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Beacon Bar",
+        "type": "",
+        "address": "2130 Broadway",
+        "borough": "Manhattan",
+        "neighborhood": "Upper West Side",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10023,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "6/30/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.981118,
+          40.780662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Ellington [relocating/reopening 2021]",
+        "type": "",
+        "address": "936 Amsterdam Avenue",
+        "borough": "Manhattan",
+        "neighborhood": "Upper West Side",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10025,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "7/1/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.965764,
+          40.800655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Wave Cafe",
+        "type": "",
+        "address": "2210 Broadway",
+        "borough": "Manhattan",
+        "neighborhood": "Upper West Side",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10024,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 1993,
+        "date_closed_approx": "6/26/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.979981,
+          40.783409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pasta Franco",
+        "type": "",
+        "address": "508 Columbus Ave",
+        "borough": "Manhattan",
+        "neighborhood": "Upper West Side",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10024,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2019,
+        "date_closed_approx": "6/28/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.973055,
+          40.785584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hudson Cafe ",
+        "type": "",
+        "address": "628 Hudson Street",
+        "borough": "Manhattan",
+        "neighborhood": "West Village",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10014,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "6/18/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.005385,
+          40.738331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fish Restaurant",
+        "type": "",
+        "address": "280 Bleeker St",
+        "borough": "Manhattan",
+        "neighborhood": "West Village",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10014,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "7/9/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.003402,
+          40.731725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sushi West",
+        "type": "",
+        "address": "556 Hudson St.",
+        "borough": "Manhattan",
+        "neighborhood": "West Village",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10014,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.005852,
+          40.735389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aria",
+        "type": "",
+        "address": "117 Perry St.",
+        "borough": "Manhattan",
+        "neighborhood": "West Village",
+        "City": "New York",
+        "State": "NY",
+        "County": "New York County",
+        "Zip": 10014,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "c. 2010",
+        "date_closed_approx": "7/2/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006566,
+          40.735144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Viva Toro",
+        "type": "",
+        "address": "188 Berry St",
+        "borough": "Brooklyn",
+        "neighborhood": "Williamsburg",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11249,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "7/23/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.961138,
+          40.716801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Snacky ",
+        "type": "",
+        "address": "187 Grand St",
+        "borough": "Brooklyn",
+        "neighborhood": "Williamsburg",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11211,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": 2002,
+        "date_closed_approx": "6/14/2020",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.960696,
+          40.714381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Artichoke Pizza",
+        "type": "restaurant",
+        "address": "148 N. 7th Street",
+        "borough": "Brooklyn",
+        "neighborhood": "Williamsburg",
+        "City": "Brooklyn",
+        "State": "NY",
+        "County": "Kings County",
+        "Zip": 11249,
+        "Country": "US",
+        "due_to_COVID": "y",
+        "date_est": "",
+        "date_closed_approx": "",
+        "number_of_employees": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.958474,
+          40.71818
+        ]
+      }
+    }
+  ]
+}
